@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm [Your Name] 
 
 ### 🚀 About Me
-- 🎓 Studying [Your Major] at [Your University]
+- 🎓 Studying [Your Major] at [Yeungjin University]
 - 💻 Passionate about web development, backend engineering, and software architecture
 - 🌱 Currently learning NestJS, TypeScript, and Elasticsearch
 - 🔥 Enjoy building projects and exploring new technologies
