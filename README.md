@@ -1,7 +1,7 @@
-## 👋 Hello! I'm [KimHyeonSun] 
+## 👋 Hello! I'm KimHyeonSun
 
 ### 🚀 About Me
-- 🎓 Studying [Web DataBase] at [Yeungjin University]
+- 🎓 Studying Web DataBase at Yeungjin University
 - 💻 Passionate about web development, backend engineering, and software architecture
 - 🌱 Currently learning NestJS, TypeScript, and Docker
 - 🔥 Enjoy building projects and exploring new technologies
