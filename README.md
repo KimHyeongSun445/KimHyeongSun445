@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 Studying [Web DataBase] at [Yeungjin University]
 - 💻 Passionate about web development, backend engineering, and software architecture
-- 🌱 Currently learning NestJS, TypeScript, and Elasticsearch
+- 🌱 Currently learning NestJS, TypeScript, and Docker
 - 🔥 Enjoy building projects and exploring new technologies
 
 ### 🛠️ Tech Stack
